@@ -1,1 +1,2 @@
 echo "Welcome to Git Class"
+This is the modified file
